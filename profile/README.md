@@ -13,7 +13,7 @@
 - 2-1반
 - 2-2반
 - 2-3반
-
+- 2-10반
 ---
 
 ## 📅 수업 내용
@@ -32,5 +32,5 @@
 ## 📥 자료 사용 방법
 
 1. `Repositories` 클릭
-2. `python-course-materials` 들어가기
+2. `python-materials` 들어가기
 3. 해당 차시 폴더 열기
