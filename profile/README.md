@@ -1,10 +1,8 @@
-# Bundang High School Python Class
+# 분당고 2학년 정보 수업 Github
 
-분당고 2학년 파이썬 수업 GitHub입니다.
+---------------------------------
 
----
-
-## 📚 수업 자료
+## 📚 수업 자료와 과제 제출은 앞으로 Github에서😊
 
 - python-course-materials
 
