@@ -4,8 +4,13 @@
 
 ## 📚 수업 자료와 과제 제출은 앞으로 Github에서😊
 
-- python-course-materials
+- python-materials
 
+### 🚀 내 과제 저장소(Repository) 빨리 찾는 법
+
+1. **상단 [Repositories] 탭 클릭**: 현재 페이지 위쪽 메뉴에서 `Repositories`를 누르면 본인 이름이 포함된 과제 저장소가 보임
+2. **GitHub 메인 페이지**: [github.com](https://github.com)에 로그인하면 왼쪽 사이드바 목록에 내 과제가 바로 뜸
+3. **직접 검색**: 이 조직 안에서 본인의 **학번**이나 **이름**을 검색창에 쳐보기
 ---
 
 ## 🧑‍💻 GitHub Classroom
